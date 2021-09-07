@@ -1,9 +1,9 @@
 # Simple-MD5-brute-force  
 There are 2 python scripts:  
-a)MD5 brute force when we don't know anything abouth a MD5 password.py  
+a)MD5 brute force when we don't know anything about a MD5 password.py  
 b)MD5 brute force when we know length of MD5 pass and know what symbols were used.py  
   
-Logis is simple:  
+Logic is simple:  
 In string "original_password="aabh1"" we assign the password->script makes a hash of it-> we put info about symbols if we know what symbols were uses -> script tries to find the original password  
   
 Example output: 
